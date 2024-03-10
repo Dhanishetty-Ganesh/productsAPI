@@ -1,0 +1,198 @@
+[
+  {
+    "id": 0,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072120/f1_kovgrc.jpg",
+    "name": "Slim Fit Dress Shirt",
+    "price": 49.9,
+    "brand": "Calvin Klein"
+  },
+  {
+    "id": 1,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072120/f2_cugxp6.jpg",
+    "name": "Men's Dri-FIT T-Shirt",
+    "price": 24.9,
+    "brand": "Nike",
+    "status": "in stock",
+    "rate": "50% Off"
+  },
+  {
+    "id": 2,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072120/f3_hitxs1.jpg",
+    "name": "Women's Badge of Sport Tee",
+    "price": 39.9,
+    "brand": "Adidas",
+    "status": "in stock",
+    "rate": "50% Off"
+  },
+  {
+    "id": 3,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072121/f4_kdqlcu.jpg",
+    "name": "Men's 1950s Sportswear T-Shirt",
+    "price": 49.9,
+    "brand": "Levi s",
+    "status": "in stock",
+    "rate": "50% Off"
+  },
+  {
+    "id": 4,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072120/f5_roqvpb.jpg",
+    "name": "Men's Tech 2.0 Short Sleeve T-Shirt",
+    "price": 49.9,
+    "brand": "Under Armour",
+    "status": "in stock",
+    "rate": "50% Off"
+  },
+  {
+    "id": 5,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072122/f6_uw2gmz.jpg",
+    "name": "Women's Basic Tee, Men's Rebel Bold Tee",
+    "price": 9.9,
+    "brand": "H&M",
+    "status": "in stock",
+    "rate": "50% Off"
+  },
+  {
+    "id": 6,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072121/f7_ou7mjx.jpg",
+    "name": "Men's Cotton Classic Short Sleeve Crew Neck T-Shirt",
+    "price": 39.5,
+    "brand": "Puma",
+    "status": "in stock",
+    "rate": "50% Off"
+  },
+  {
+    "id": 7,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072120/f8_oaih45.jpg",
+    "name": "Women's Classic Fit Crewneck T-Shirt",
+    "price": 29.5,
+    "brand": "Ralph Lauren"
+  },
+  {
+    "id": 8,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072125/n1_hvxm9v.jpg",
+    "name": "Slim Fit Dress Shirt",
+    "price": 49.9,
+    "brand": "Calvin Klein"
+  },
+  {
+    "id": 9,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072126/n2_dkz2ec.jpg",
+    "name": "Men's Dri-FIT T-Shirt",
+    "price": 24.9,
+    "brand": "Nike"
+  },
+  {
+    "id": 10,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072125/n3_dos8c2.jpg",
+    "name": "Women's Badge of Sport Tee",
+    "price": 39.9,
+    "brand": "Adidas"
+  },
+  {
+    "id": 11,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072126/n4_l4jeum.jpg",
+    "name": "Men's 1950s Sportswear T-Shirt",
+    "price": 49.9,
+    "brand": "Levi s"
+  },
+  {
+    "id": 12,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072126/n5_e57dgo.jpg",
+    "name": "Men's Tech 2.0 Short Sleeve T-Shirt",
+    "price": 49.9,
+    "brand": "Under Armour"
+  },
+  {
+    "id": 13,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072126/n6_jzf7bz.jpg",
+    "name": "Women's Basic Tee, Men's Rebel Bold Tee",
+    "price": 9.9,
+    "brand": "H&M"
+  },
+  {
+    "id": 14,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072127/n7_cqtqh8.jpg",
+    "name": "Men's Cotton Classic Short Sleeve Crew Neck T-Shirt",
+    "price": 39.5,
+    "brand": "Puma"
+  },
+  {
+    "id": 15,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072127/n8_xbcdo1.jpg",
+    "name": "Women's Classic Fit Crewneck T-Shirt",
+    "price": 29.5,
+    "brand": "Ralph Lauren"
+  },
+  {
+    "id": 16,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072124/img1_fe5atz.png",
+    "name": "Slim Fit Dress Shirt",
+    "price": 49.9,
+    "brand": "Calvin Klein",
+    "status": "in stock",
+    "rate": "60% off"
+  },
+  {
+    "id": 17,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072124/img2_cukxi7.png",
+    "name": "Men's Dri-FIT T-Shirt",
+    "price": 24.9,
+    "brand": "Nike",
+    "status": "in stock",
+    "rate": "60% off"
+  },
+  {
+    "id": 18,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072122/img3_rcif32.png",
+    "name": "Women's Badge of Sport Tee",
+    "price": 39.9,
+    "brand": "Adidas",
+    "status": "in stock",
+    "rate": "60% off"
+  },
+  {
+    "id": 19,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072122/img4_af3kme.png",
+    "name": "Men's 1950s Sportswear T-Shirt",
+    "price": 49.9,
+    "brand": "Levi s",
+    "status": "out of stock",
+    "rate": "normal rates"
+  },
+  {
+    "id": 20,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072127/img5_pgbqqn.png",
+    "name": "Men's Tech 2.0 Short Sleeve T-Shirt",
+    "price": 49.9,
+    "brand": "Under Armour",
+    "status": "out of stock",
+    "rate": "normal rates"
+  },
+  {
+    "id": 21,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072123/img6_c9gxuw.png",
+    "name": "Women's Basic Tee, Men's Rebel Bold Tee",
+    "price": 9.9,
+    "brand": "H&M",
+    "status": "out of stock",
+    "rate": "normal rates"
+  },
+  {
+    "id": 22,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072124/img7_rzxxel.png",
+    "name": "Men's Cotton Classic Short Sleeve Crew Neck T-Shirt",
+    "price": 39.5,
+    "brand": "Puma",
+    "status": "out of stock",
+    "rate": "normal rates"
+  },
+  {
+    "id": 23,
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072125/img8_dbmz2f.png",
+    "name": "Women's Classic Fit Crewneck T-Shirt",
+    "price": 29.5,
+    "brand": "Ralph Lauren",
+    "status": "out of stock",
+    "rate": "normal rates"
+  }
+]
