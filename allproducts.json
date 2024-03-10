@@ -1,14 +1,14 @@
 [
   {
     "id": 0,
-    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072120/f1_kovgrc.jpg",
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710087248/IMG_20231019_124643_1_n0fb7p.jpg",
     "name": "Slim Fit Dress Shirt",
     "price": 49.9,
     "brand": "Calvin Klein"
   },
   {
     "id": 1,
-    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072120/f2_cugxp6.jpg",
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710087248/f2_aecmnr.jpg",
     "name": "Men's Dri-FIT T-Shirt",
     "price": 24.9,
     "brand": "Nike",
@@ -17,7 +17,7 @@
   },
   {
     "id": 2,
-    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072120/f3_hitxs1.jpg",
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710087248/f3_gn8k4f.jpg",
     "name": "Women's Badge of Sport Tee",
     "price": 39.9,
     "brand": "Adidas",
@@ -26,7 +26,7 @@
   },
   {
     "id": 3,
-    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710072121/f4_kdqlcu.jpg",
+    "image": "https://res.cloudinary.com/dvwnbhpcy/image/upload/v1710087248/f4_ndurvj.jpg",
     "name": "Men's 1950s Sportswear T-Shirt",
     "price": 49.9,
     "brand": "Levi s",
